@@ -3,28 +3,35 @@ layout: default
 title: Ameer Riaz | AR Law Counsel
 ---
 
-## Founder, AR Law Counsel
-**Tech Lawyer | Data Privacy Expert | Bangalore**
+# Ameer Riaz
+## Founder, AR Law Counsel | Tech Lawyer
 
-Welcome to the professional practice of **Ameer Riaz**. Based in the tech hub of Bangalore, I provide specialized legal solutions for the digital economy, bridging the gap between innovation and regulation.
+> **Strategic Compliance Solutions for the Digital Economy.** Based in Bangalore, AR Law Counsel bridges the gap between technical innovation and global legal standards.
 
-### 🛡️ Privacy Compliance & GRC
-* **DPDP Act & GDPR**: Implementation and audit solutions for Indian and Global data laws.
-* **GRC Frameworks**: Strategic Governance, Risk, and Compliance for IT enterprises.
-* **Cyber Law**: Navigating the legalities of information security and digital assets.
+---
 
-### ⚖️ Litigation & Corporate
-* **Civil Litigation**: Expert representation and trial strategy for complex disputes.
-* **General Corporate**: Advisory on commercial contracts and corporate governance.
+### 🛡️ Privacy & Cyber Law Expertise
+I provide end-to-end compliance solutions focused on data protection and governance risk.
+
+* **DPDP Act & GDPR Readiness**: Comprehensive implementation strategy for Indian and Global data laws.
+* **GRC (Governance, Risk, and Compliance)**: Aligning IT operations with international regulatory frameworks.
+* **Information Technology Law**: Strategic counsel on software licensing, IT securities, and digital assets.
+
+### ⚖️ Litigation & Corporate Advisory
+Professional advocacy for the complex legal needs of modern businesses.
+
+* **Civil Litigation**: Expert representation in civil disputes with a focus on trial strategy.
+* **General Corporate**: Advisory on commercial contracts, corporate governance, and business law.
 
 ---
 
 ### 🎓 Qualifications
 * **Master of Laws (LL.M.)**
 * **Bachelor of Laws (LL.B.)**
-* **Certified Professional**: Data Privacy & Information Securities.
+* **Specialized Certifications**: Data Privacy, Information Security, and Cyber Law.
 
-[View my LinkedIn Profile](https://www.linkedin.com/in/ameerriaz/) [**Email Me**](mailto:ameer.riaz@globals.com)
+---
 
+[**Connect on LinkedIn**](https://www.linkedin.com/in/ameerriaz/) | [**Email Inquiry**](mailto:ameer.riaz@globals.com)
 ---
 *Disclaimer: The information on this website is for general informational purposes only and does not constitute legal advice.*
