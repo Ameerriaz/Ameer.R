@@ -1,15 +1,18 @@
-# Site Identity
 title: AR Law Counsel
 author: Ameer Riaz
-description: Privacy Compliance (DPDP/GDPR) & Civil Litigation Expertise.
+description: Privacy Compliance & Civil Litigation Experts
 
-# Theme Selection (Cayman is great for Law-Tech)
+# The Cyber-Tech Theme
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Fix for the /Ameer.R/ URL issue
-baseurl: "/Ameer.R"
+# PATH FIXES (Crucial for your URL)
+baseurl: "/Ameer.R" 
 url: "https://ameerriaz.github.io"
 
-# Plugins to make the theme work
+# Social Links (Theme specific)
+google_analytics: 
+show_downloads: false
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
