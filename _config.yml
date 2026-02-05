@@ -1,4 +1,15 @@
+# Site Identity
 title: AR Law Counsel
-theme: jekyll-theme-minimal
-description: Privacy Compliance & Civil Litigation by Ameer Riaz.
+author: Ameer Riaz
+description: Privacy Compliance (DPDP/GDPR) & Civil Litigation Expertise.
+
+# Theme Selection (Cayman is great for Law-Tech)
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Fix for the /Ameer.R/ URL issue
 baseurl: "/Ameer.R"
+url: "https://ameerriaz.github.io"
+
+# Plugins to make the theme work
+plugins:
+  - jekyll-remote-theme
