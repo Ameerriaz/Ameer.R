@@ -1,44 +1,30 @@
 ---
 layout: default
-title: Ameer Riaz | Founder, AR Law Counsel
+title: Ameer Riaz | AR Law Counsel
 ---
 
-# Ameer Riaz
-### Founder, AR Law Counsel | Tech Lawyer | Bangalore
+## Founder, AR Law Counsel
+**Tech Lawyer | Data Privacy Expert | Bangalore**
 
-I am a legal professional specializing in the intersection of law, technology, and corporate governance. As the founder of **AR Law Counsel**, I provide strategic solutions for privacy compliance and complex legal challenges for the digital age.
+Welcome to the professional practice of **Ameer Riaz**. Based in the tech hub of Bangalore, I provide specialized legal solutions for the digital economy, bridging the gap between innovation and regulation.
 
----
+### 🛡️ Privacy Compliance & GRC
+* **DPDP Act & GDPR**: Implementation and audit solutions for Indian and Global data laws.
+* **GRC Frameworks**: Strategic Governance, Risk, and Compliance for IT enterprises.
+* **Cyber Law**: Navigating the legalities of information security and digital assets.
 
-## 🛡️ Privacy Compliance & GRC Solutions
-I provide end-to-end solutions for companies to navigate the evolving regulatory landscape in India and globally.
-
-* **DPDP Act Readiness**: Gap analysis, implementation, and compliance strategies for the Digital Personal Data Protection Act.
-* **GDPR Advisory**: Comprehensive frameworks for cross-border data protection and European compliance.
-* **GRC (Governance, Risk, and Compliance)**: Aligning technical operations with international legal standards and mitigating systemic risk.
-* **Information Technology & Securities**: Strategic counsel on IT legal frameworks and the protection of digital assets.
-
----
-
-## ⚖️ Core Legal Practice
-Beyond technology, I maintain a robust practice in foundational legal areas:
-
-* **Civil Litigation**: Expert representation in complex civil disputes with a focus on trial advocacy and strategic resolution.
-* **General Corporate Law**: Advisory on corporate governance, commercial contracts, and business law.
+### ⚖️ Litigation & Corporate
+* **Civil Litigation**: Expert representation and trial strategy for complex disputes.
+* **General Corporate**: Advisory on commercial contracts and corporate governance.
 
 ---
 
-## 🎓 Education & Professional Background
-* **Master of Laws (LL.M.)**: Advanced legal research and specialization.
-* **Bachelor of Laws (LL.B.)**: Core legal training and advocacy.
-* **Certified Professional**: Specialized in Data Privacy, Information Security, and Cyber Law.
+### 🎓 Qualifications
+* **Master of Laws (LL.M.)**
+* **Bachelor of Laws (LL.B.)**
+* **Certified Professional**: Data Privacy & Information Securities.
 
----
-
-## 📍 Contact & Connect
-Based in the tech hub of **Bangalore**, I am available for consultations regarding privacy frameworks or corporate legal needs.
-
-[**LinkedIn Profile**](https://www.linkedin.com/in/ameerriaz/) | [**Email Me**](mailto:ameer.riaz@globals.com)
+[View my LinkedIn Profile](https://www.linkedin.com/in/ameerriaz/) [**Email Me**](mailto:ameer.riaz@globals.com)
 
 ---
 *Disclaimer: The information on this website is for general informational purposes only and does not constitute legal advice.*
