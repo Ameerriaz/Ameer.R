@@ -1,96 +1,180 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Ameer Riaz | AR Law Counsel</title>
 
-<meta name="description" content="Ameer Riaz is an enrolled advocate specializing in Data Privacy, Cyber Law, and Technology Compliance.">
+<meta name="description" content="Ameer Riaz is a 22-year-old Advocate and founder of AR Law Counsel, specializing in Cyber Law, Data Privacy, and Civil Litigation based in Bangalore, India.">
 
 <style>
 
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
 body{
 font-family: 'Segoe UI', sans-serif;
-margin:0;
 background:#f4f6f9;
 color:#1a1a1a;
+line-height:1.6;
 }
+
+/* Container */
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:0 20px;
+}
+
+/* Header */
 
 header{
 background:#0c1c2c;
 color:white;
-padding:40px;
 text-align:center;
+padding:40px 20px;
 }
 
 header img{
-width:90px;
-margin-bottom:10px;
+width:75px;
+margin-bottom:12px;
 }
+
+/* Navigation */
 
 nav{
 background:#13293d;
-padding:12px;
-text-align:center;
+}
+
+.nav-container{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+padding:12px 0;
 }
 
 nav a{
 color:white;
-margin:0 20px;
 text-decoration:none;
+margin:8px 18px;
 font-weight:600;
 }
 
+/* Sections */
+
 section{
-padding:60px 15%;
+padding:60px 0;
 background:white;
-margin-bottom:20px;
+margin-bottom:12px;
 }
+
+/* Headings */
+
+h2{
+text-align:center;
+margin-bottom:30px;
+border-bottom:2px solid #eee;
+padding-bottom:10px;
+}
+
+/* Hero */
 
 .hero{
 display:flex;
 align-items:center;
+justify-content:center;
 gap:40px;
+flex-wrap:wrap;
+text-align:left;
 }
 
 .hero img{
-width:220px;
+width:230px;
 border-radius:12px;
 }
 
-h2{
-border-bottom:3px solid #eaeaea;
-padding-bottom:8px;
+.hero-text{
+max-width:550px;
 }
 
-.service-box{
-margin-top:20px;
+/* Lists */
+
+ul{
+margin-top:10px;
+padding-left:20px;
 }
+
+li{
+margin-bottom:6px;
+}
+
+/* Blog Cards */
 
 .blog-card{
 background:#f9f9f9;
-padding:20px;
-margin:15px 0;
+padding:22px;
+margin-top:20px;
 border-radius:8px;
+text-align:left;
+}
+
+/* Buttons */
+
+.button-center{
+text-align:center;
+margin-top:20px;
 }
 
 button{
 background:#0c1c2c;
 color:white;
-padding:12px 25px;
+padding:12px 28px;
 border:none;
-cursor:pointer;
 border-radius:6px;
+cursor:pointer;
 }
+
+/* Contact */
+
+.contact-info{
+text-align:center;
+line-height:2;
+}
+
+/* Footer */
 
 footer{
 background:#0c1c2c;
 color:white;
 text-align:center;
-padding:25px;
+padding:22px;
 font-size:14px;
+}
+
+/* Mobile Optimization */
+
+@media (max-width:768px){
+
+.hero{
+flex-direction:column;
+text-align:center;
+}
+
+.hero-text{
+max-width:100%;
+}
+
+nav a{
+display:block;
+margin:8px 0;
+}
+
 }
 
 </style>
@@ -99,161 +183,144 @@ font-size:14px;
 <body>
 
 <header>
-
-<img src="logo.png">
-
+<img src="logo.png" alt="AR Law Counsel Logo">
 <h1>Ameer Riaz</h1>
-<p>Founder – AR Law Counsel | Advocate | Technology & Privacy Law</p>
-
+<p>Founder – AR Law Counsel | Advocate | Cyber Law & Civil Litigation</p>
 </header>
 
 <nav>
+<div class="nav-container">
 <a href="#about">About</a>
 <a href="#services">Practice Areas</a>
 <a href="#blog">Insights</a>
 <a href="#booking">Consultation</a>
 <a href="#contact">Contact</a>
 <a href="#legal">Legal</a>
+</div>
 </nav>
 
 <section id="about">
+<div class="container">
 
 <h2>About</h2>
 
 <div class="hero">
 
-<img src="profile.jpg">
+<img src="profile.jpg" alt="Ameer Riaz">
 
-<div>
+<div class="hero-text">
 
 <p>
-Ameer Riaz is an enrolled Advocate focusing on Technology Law, Data Protection, and Digital Compliance advisory.
+Ameer Riaz is a 22-year-old enrolled Advocate and founder of AR Law Counsel, focusing on Cyber Law, Data Privacy, and Civil Litigation. He represents a new generation of lawyers working at the intersection of law and technology.
 </p>
 
 <p>
-Ameer Riaz is a 22-year-old enrolled Advocate and founder of AR Law Counsel, focusing on Cyber Law, Data Privacy, and Civil Litigation. As a young legal professional, he represents a new generation of lawyers working at the intersection of law, technology, and regulatory compliance.
-</p>
-
-<p>
-Through AR Law Counsel, he assists organisations, startups, and individuals in navigating complex digital regulatory frameworks, cyber dispute resolution, and civil legal proceedings while ensuring alignment with evolving Indian and international legal standards.
-</p>
-
-<p>
-His practice integrates governance, risk management, technology law advisory, and litigation strategy, with a focus on emerging legal challenges in the digital ecosystem.
+Through AR Law Counsel, he assists startups, organisations, and individuals in navigating digital regulatory frameworks, cyber dispute resolution, and civil litigation strategy.
 </p>
 
 </div>
 </div>
 
+</div>
 </section>
 
 <section id="services">
+<div class="container">
 
 <h2>Practice Areas</h2>
 
-<div class="service-box">
-
 <h3>Privacy & Data Protection</h3>
 <ul>
-<li>DPDP Act Compliance Programs</li>
-<li>GDPR Implementation Advisory</li>
+<li>DPDP Act Compliance</li>
+<li>GDPR Advisory</li>
 <li>Privacy Impact Assessments</li>
-<li>Data Governance Framework Design</li>
+<li>Data Governance Frameworks</li>
 </ul>
 
 <h3>Cyber & Technology Law</h3>
 <ul>
 <li>Information Technology Act Advisory</li>
-<li>Cyber Incident Legal Strategy</li>
-<li>SaaS & Technology Contract Drafting</li>
+<li>Cyber Incident Strategy</li>
+<li>SaaS Contract Drafting</li>
 </ul>
 
-<h3>Corporate & Litigation</h3>
+<h3>Civil Litigation</h3>
 <ul>
-<li>Commercial Agreements</li>
-<li>Civil Litigation Strategy</li>
-<li>Regulatory Representation</li>
+<li>Commercial Disputes</li>
+<li>Contractual Litigation</li>
+<li>Legal Notice Drafting</li>
 </ul>
 
 </div>
-
 </section>
 
 <section id="blog">
+<div class="container">
 
-<h2>Legal Insights & Articles</h2>
+<h2>Legal Insights</h2>
 
 <div class="blog-card">
 <h3>Understanding India's DPDP Act</h3>
-<p>Key compliance steps businesses must adopt under India’s Digital Personal Data Protection framework.</p>
+<p>Key compliance strategies organisations must implement under India's new data protection regime.</p>
 </div>
 
 <div class="blog-card">
-<h3>AI & Copyright Law Challenges</h3>
-<p>Legal uncertainties emerging from generative AI training and derivative content.</p>
+<h3>AI & Copyright Challenges</h3>
+<p>Legal uncertainties created by generative AI and intellectual property rights.</p>
 </div>
 
+</div>
 </section>
 
 <section id="booking">
+<div class="container">
 
 <h2>Book Consultation</h2>
 
-<p>
-Schedule a professional consultation for compliance advisory, contract review, or legal strategy.
-</p>
+<p style="text-align:center;">Schedule a professional legal consultation.</p>
 
+<div class="button-center">
 <button onclick="window.location.href='mailto:arlawcounsel@gmail.com'">
 Book Appointment
 </button>
+</div>
 
+</div>
 </section>
 
 <section id="contact">
+<div class="container">
 
 <h2>Contact</h2>
+
+<div class="contact-info">
 
 <p>Email: arlawcounsel@gmail.com</p>
 
 <p>
 LinkedIn:
 <a href="https://www.linkedin.com/in/ameer-riaz-408485307" target="_blank">
-Professional Profile
+View Profile
 </a>
 </p>
 
-<p>Location: Bangalore, India</p>
+<p>Bangalore, India</p>
 
+</div>
+
+</div>
 </section>
 
 <section id="legal">
+<div class="container">
 
-<h2>Legal & Compliance</h2>
+<h2>Legal Disclaimer</h2>
 
-<h3>Advocate Disclaimer</h3>
-
-<p>
-As per Bar Council of India rules, this website is intended solely for informational purposes and does not solicit work or advertise legal services. Accessing this website does not create an advocate-client relationship.
+<p style="text-align:center;">
+As per Bar Council of India rules, this website is for informational purposes only and does not constitute advertisement or legal solicitation.
 </p>
 
-<h3>Privacy Policy</h3>
-
-<p>
-Personal data submitted via contact channels will be processed in compliance with the Digital Personal Data Protection Act, 2023 and applicable international standards. Information is collected solely for professional communication and consultation.
-</p>
-
-<h3>Terms of Use</h3>
-
-<p>
-All website content including text, structure, and design elements remain intellectual property of AR Law Counsel unless otherwise stated.
-</p>
-
-<h3>Cookie Notice</h3>
-
-<p>
-This website may use minimal cookies for functionality and performance analytics.
-</p>
-
+</div>
 </section>
 
 <footer>
